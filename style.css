@@ -1,0 +1,18 @@
+.protein {
+	color: green;
+	text-decoration: underline;
+}
+
+.nazovInterakcie {
+	color: red;
+	text-decoration: underline;
+}
+
+input {
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+
+.vypisPouziteho {
+	font-family: monospace; 
+}
